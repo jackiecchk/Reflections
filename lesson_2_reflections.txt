@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+>> a hidden folder .git was added. The 'git init' must be done before the first commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+>> staging area is a full/sub set of files in working directory. staging area with no history, but repository does have. it offers a flexibility in commit files to repository by add/remove file from/to the area.
