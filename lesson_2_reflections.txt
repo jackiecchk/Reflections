@@ -5,4 +5,4 @@ How is the staging area different from the working directory and the repository?
 >> staging area is a full/sub set of files in working directory. staging area with no history, but repository does have. it offers a flexibility in commit files to repository by add/remove file from/to the area.
 
 How can you use the staging area to make sure you have one commit per logical change?
->> I can use command 'git diff --staged' to compare different between repository and staging area. Then I commit the change after I verify that the change was what we expected for one specific logical change.
+>> I can use command 'git diff --staged' to compare different between repository and staging area. Then I commit the change after I verify that the change was what we expected for one specific logical change!
