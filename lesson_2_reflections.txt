@@ -16,3 +16,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 >> The result will be 1)the original code both branches exist, plus 2)the new code exist in either branch, minus 3)the original code was deleted in either branch. We represent the log in the diagram by using command 'git log --graph --oneline', in this way, we can see the merging history clearly.
+
+What are the pros and cons of Git¡¦s automatic merging vs. always doing merges manually?
+>> By using Git's auto. merging it does save time but may result in logical error sometimes, while manually merging it does take time but programmer can remove some unnecessary code during the review of the code to reduce logical error.
