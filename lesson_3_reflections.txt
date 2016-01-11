@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+>> to share my files with others and/or want to keep my files in a safe place. namely github server.
